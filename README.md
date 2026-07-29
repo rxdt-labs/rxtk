@@ -24,7 +24,7 @@ uv add rxtk[bootstrap]
 
 # What is it?
 
-rxtk is a thin wrapper over [tkinter](https://docs.python.org/3/library/tkinter.html) (and optionally [ttkbootstrap](https://ttkbootstrap.readthedocs.io/en/latest/) so using the reactive [pypagate](https://github.com/rxdt-labs/pypagate) is easier than ever before. Consider this feet-to-meeters application from [tkdocs.com](https://tkdocs.com/tutorial/firstexample.html):
+rxtk is a thin wrapper over [tkinter](https://docs.python.org/3/library/tkinter.html) (and optionally [ttkbootstrap](https://ttkbootstrap.readthedocs.io/en/latest/)) so using the reactive [pypagate](https://github.com/rxdt-labs/pypagate) is easier than ever before. Consider this feet-to-meeters application from [tkdocs.com](https://tkdocs.com/tutorial/firstexample.html):
 
 ```py
 from tkinter import *
