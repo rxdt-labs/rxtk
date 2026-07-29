@@ -1,25 +1,89 @@
-<svg width="100%" viewBox="0 0 680 360" xmlns="http://www.w3.org/2000/svg" role="img" style="">
-<title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">rxtk logo concept</title>
-<desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">A rounded window frame with a titlebar, and a reactive pulse/signal line flowing through the pane, in teal.</desc>
-<defs>
-<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-<stop offset="0%" stop-color="#1D9E75" stop-opacity="0"/>
-<stop offset="15%" stop-color="#1D9E75" stop-opacity="1"/>
-<stop offset="85%" stop-color="#1D9E75" stop-opacity="1"/>
-<stop offset="100%" stop-color="#1D9E75" stop-opacity="0"/>
-</linearGradient>
-</defs>
-
-<rect x="240" y="60" width="200" height="150" rx="14" fill="#0F6E56" style="fill:rgb(15, 110, 86);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<rect x="240" y="60" width="200" height="34" rx="14" fill="#085041" style="fill:rgb(8, 80, 65);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<rect x="240" y="82" width="200" height="12" fill="#085041" style="fill:rgb(8, 80, 65);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<circle cx="258" cy="77" r="5" fill="#5DCAA5" style="fill:rgb(93, 202, 165);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<circle cx="274" cy="77" r="5" fill="#5DCAA5" style="fill:rgb(93, 202, 165);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<circle cx="290" cy="77" r="5" fill="#5DCAA5" style="fill:rgb(93, 202, 165);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-<rect x="256" y="110" width="168" height="84" rx="6" fill="#E1F5EE" style="fill:rgb(225, 245, 238);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-<path d="M 256 152 L 286 152 L 300 122 L 316 182 L 332 140 L 348 164 L 364 152 L 424 152" fill="none" stroke="#0F6E56" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="fill:none;stroke:rgb(15, 110, 86);color:rgb(11, 11, 11);stroke-width:4px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-<circle cx="424" cy="152" r="7" fill="#1D9E75" style="fill:rgb(29, 158, 117);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="136000"
+   viewBox="0 0 136000 54000"
+   role="img"
+   version="1.1"
+   id="svg9"
+   height="54000"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <title
+     id="title1">rxtk logo concept</title>
+  <desc
+     id="desc1">A rounded window frame with a titlebar, and a reactive pulse/signal line flowing through the pane, in teal.</desc>
+  <defs
+     id="defs4" />
+  <rect
+     x="-162960"
+     y="-21540"
+     width="200"
+     height="150"
+     rx="14"
+     fill="#0F6E56"
+     style="color:#0b0b0b;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#0f6e56;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="rect4" />
+  <rect
+     x="-162960"
+     y="-21540"
+     width="200"
+     height="34"
+     rx="14"
+     fill="#085041"
+     style="color:#0b0b0b;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#085041;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="rect5" />
+  <rect
+     x="-162960"
+     y="-21518"
+     width="200"
+     height="12"
+     fill="#085041"
+     style="color:#0b0b0b;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#085041;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="rect6" />
+  <circle
+     cx="-162942"
+     cy="-21523"
+     r="5"
+     fill="#5DCAA5"
+     style="color:#0b0b0b;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#5dcaa5;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="circle6" />
+  <circle
+     cx="-162926"
+     cy="-21523"
+     r="5"
+     fill="#5DCAA5"
+     style="color:#0b0b0b;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#5dcaa5;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="circle7" />
+  <circle
+     cx="-162910"
+     cy="-21523"
+     r="5"
+     fill="#5DCAA5"
+     style="color:#0b0b0b;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#5dcaa5;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="circle8" />
+  <rect
+     x="-162944"
+     y="-21490"
+     width="168"
+     height="84"
+     rx="6"
+     fill="#E1F5EE"
+     style="color:#0b0b0b;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#e1f5ee;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="rect8" />
+  <path
+     d="m -162944,-21448 h 30 l 14,-30 16,60 16,-42 16,24 16,-12 h 60"
+     fill="none"
+     stroke="#0F6E56"
+     stroke-width="4"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     style="color:#0b0b0b;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:none;stroke:#0f6e56;stroke-width:4px;stroke-linecap:round;stroke-linejoin:round"
+     id="path8" />
+  <circle
+     cx="-162776"
+     cy="-21448"
+     r="7"
+     fill="#1D9E75"
+     style="color:#0b0b0b;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#1d9e75;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="circle9" />
 </svg>
