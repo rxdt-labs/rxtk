@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="rxtk-logo.svg" alt="transytion">
+</p>
+
 # rxtk
 
 Reactive bindings to Python `tkinter` module. (WIP)
