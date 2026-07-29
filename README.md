@@ -14,7 +14,7 @@ pip install rxtk
 pip install rxtk[bootstrap]
 ```
 
-Install with [uv](https://docs.astral.sh/uv/)
+Install with [uv](https://docs.astral.sh/uv/):
 
 ```bash
 uv add rxtk
