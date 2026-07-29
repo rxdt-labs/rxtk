@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="rxtk-logo.svg" alt="transytion">
+  <img src="rxtk-logo.svg" alt="transytion" width="60px">
 </p>
 
 # rxtk
