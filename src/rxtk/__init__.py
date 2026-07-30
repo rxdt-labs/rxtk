@@ -74,3 +74,18 @@ class Label(ttk.Label):
     def __init__(self, *args, **kwargs):
         options = _register_kwargs(self, **kwargs)
         super().__init__(*args, **options)
+
+class Comboxbox(ttk.Combobox):
+    def __init__(self, *args, **kwargs):
+        options = _register_kwargs(self, **kwargs)
+        super().__init__(*args, **options)
+
+class Notebook(ttk.Notebook):
+    def __init__(self, *args, **kwargs):
+        options = _register_kwargs(self, **kwargs)
+        super().__init__(*args, **options)
+
+class Progressbar(ttk.Progressbar):
+    def __init__(self, *args, **kwargs):
+        options = _register_kwargs(self, **kwargs)
+        super().__init__(*args, **options)
