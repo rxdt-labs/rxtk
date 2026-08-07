@@ -30,9 +30,16 @@ class Button(ttk.Button):
         super().__init__(*args, **options)
 
 class Checkbutton(ttk.Checkbutton):
+    def __on_change(self):
+        self.value.change(self._value.get())
+
     def __init__(self, *args, **kwargs):
         options = _register_kwargs(self, **kwargs)
         super().__init__(*args, **options)
+        self.value = pg.Term(0)
+        self._value = tk.IntVar()
+        self.config({"variable": self._value})
+        self.config({"command": self.__on_change})
 
 class Entry(ttk.Entry):
     def __on_change(self, event):
